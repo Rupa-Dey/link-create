@@ -286,6 +286,11 @@ body{
     color: white;
     width: 110%;
     }
+    .in3 input{
+        /* padding: 20px; */
+        height: 80px;
+        
+    }
     .cntc button{
         padding: 10px;
         border: none;
